@@ -20,3 +20,5 @@ npm run dev
 ```
 
 Open [localhost:8080](http://localhost:8080) and see the result.
+
+Alternatively, you can check out the [demo](https://test-task-nextjs-umber.vercel.app/).
