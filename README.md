@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## How to run
 
-First, make sure you got them dependencies installed:
+First, make sure you have npm version 18.17 or higher installed. After that, make sure you got them dependencies installed:
 
 ```bash
 npm i
