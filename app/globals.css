@@ -1,3 +1,8 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #eee;
+}
+
 .article-container {
     display: flex;
     flex-wrap: wrap;
